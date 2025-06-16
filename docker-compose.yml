@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    container_name: chatbotapi
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
+
+  webhook:
+    image: node:18
+    container_name: webhook-listener
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: ["node", "webhook.js"]
+    ports:
+      - "3001:3001"
+    restart: unless-stopped
