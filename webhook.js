@@ -9,7 +9,7 @@ http.createServer((req, res) => {
     req.on("data", chunk => body += chunk);
     req.on("end", () => {
       console.log("🔁 Webhook received! Running deploy...");
-      exec("sh ./deploy.sh", (err, stdout, stderr) => {
+      exec("powershell.exe -ExecutionPolicy Bypass -File ./deploy.ps1", (err, stdout, stderr) => {
         if (err) return console.error("❌", err);
         console.log(stdout);
       });
