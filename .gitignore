@@ -1,0 +1,40 @@
+# === Build ===
+bin/
+obj/
+
+# === VS Code ===
+.vscode/
+.vscode/*
+
+# === User-specific files ===
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# === Dotnet artifacts ===
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# === Logs ===
+*.log
+
+# === Environment / Secrets ===
+.env
+.env.*
+
+# === OS-specific ===
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# === Others ===
+*.db
+*.sqlite
+*.pdb
+*.cache

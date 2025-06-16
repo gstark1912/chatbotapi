@@ -9,3 +9,5 @@ C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Models\obj\Debug\net
 C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Models\obj\Debug\net9.0\refint\ChatbotAPI.Models.dll
 C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Models\obj\Debug\net9.0\ChatbotAPI.Models.pdb
 C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Models\obj\Debug\net9.0\ref\ChatbotAPI.Models.dll
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Models\obj\Debug\net9.0\ChatbotAPI.Models.csproj.AssemblyReference.cache
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Models\obj\Debug\net9.0\ChatbotAPI.Models.sourcelink.json

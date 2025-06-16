@@ -8,6 +8,7 @@ C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Deb
 C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\ChatbotAPI.Repositories.AssemblyInfoInputs.cache
 C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\ChatbotAPI.Repositories.AssemblyInfo.cs
 C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\ChatbotAPI.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\ChatbotAPI.Repositories.sourcelink.json
 C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\ChatbotA.87A7837B.Up2Date
 C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\ChatbotAPI.Repositories.dll
 C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\refint\ChatbotAPI.Repositories.dll
