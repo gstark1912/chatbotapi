@@ -1,7 +1,7 @@
-FROM mcr.microsoft.com/dotnet/sdk:8.0
+FROM mcr.microsoft.com/dotnet/sdk:9.0-preview
 
 WORKDIR /app
 
 COPY . .
 
-CMD ["dotnet", "run", "--project", "ChatbotAPI/ChatbotAPI.csproj"]
+CMD ["dotnet", "run", "--project", "src/ChatbotAPI.API/ChatbotAPI.API.csproj", "--urls", "http://0.0.0.0:5046"]

@@ -7,8 +7,10 @@ services:
       dockerfile: Dockerfile.api
     container_name: chatbotapi
     ports:
-      - "5000:5000"
+      - "5046:5046"
     restart: unless-stopped
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
 
   webhook:
     image: node:18
