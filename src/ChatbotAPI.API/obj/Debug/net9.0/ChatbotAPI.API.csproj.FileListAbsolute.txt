@@ -1,0 +1,7 @@
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.API\obj\Debug\net9.0\ChatbotAPI.API.csproj.AssemblyReference.cache
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.API\obj\Debug\net9.0\ChatbotAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.API\obj\Debug\net9.0\ChatbotAPI.API.AssemblyInfoInputs.cache
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.API\obj\Debug\net9.0\ChatbotAPI.API.AssemblyInfo.cs
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.API\obj\Debug\net9.0\ChatbotAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.API\obj\Debug\net9.0\ChatbotAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.API\obj\Debug\net9.0\ChatbotAPI.API.MvcApplicationPartsAssemblyInfo.cache

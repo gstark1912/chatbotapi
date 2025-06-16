@@ -1,0 +1,15 @@
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\bin\Debug\net9.0\ChatbotAPI.Repositories.deps.json
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\bin\Debug\net9.0\ChatbotAPI.Repositories.dll
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\bin\Debug\net9.0\ChatbotAPI.Repositories.pdb
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\bin\Debug\net9.0\ChatbotAPI.Models.dll
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\bin\Debug\net9.0\ChatbotAPI.Models.pdb
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\ChatbotAPI.Repositories.csproj.AssemblyReference.cache
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\ChatbotAPI.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\ChatbotAPI.Repositories.AssemblyInfoInputs.cache
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\ChatbotAPI.Repositories.AssemblyInfo.cs
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\ChatbotAPI.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\ChatbotA.87A7837B.Up2Date
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\ChatbotAPI.Repositories.dll
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\refint\ChatbotAPI.Repositories.dll
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\ChatbotAPI.Repositories.pdb
+C:\Users\gstark\source\repos\ChatbotSolution\src\ChatbotAPI.Repositories\obj\Debug\net9.0\ref\ChatbotAPI.Repositories.dll
