@@ -26,6 +26,10 @@ builder.Services.Configure<MongoDbSettings>(
 builder.Services.AddSingleton<IMongoClient>(serviceProvider =>
 {
     var settings = builder.Configuration.GetSection("MongoDbSettings").Get<MongoDbSettings>();
+    if (settings == null || string.IsNullOrEmpty(settings.ConnectionString))
+    {
+        throw new InvalidOperationException("MongoDbSettings or ConnectionString is not configured properly.");
+    }
     return new MongoClient(settings.ConnectionString);
 });
 
