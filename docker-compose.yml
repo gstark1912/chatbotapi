@@ -12,7 +12,7 @@ services:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
       - MongoDbSettings__ConnectionString=mongodb://mongo:27017
-      - MongoDbSettings__DatabaseName=chatbotDB
+      - MongoDbSettings__DatabaseName=chatbotdb
 
   mongo:
     image: mongo
