@@ -2,6 +2,9 @@
 bin/
 obj/
 
+# === NuGet Packages ===
+node_modules/
+
 # === VS Code ===
 .vscode/
 .vscode/*

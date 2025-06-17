@@ -1,0 +1,27 @@
+{
+  "name": "chatbotapi",
+  "version": "1.0.0",
+  "description": "ChatbotSolution is a project designed to provide intelligent conversational capabilities for various applications. This repository contains the source code, documentation, and resources needed to deploy and customize your own chatbot.",
+  "main": "updateWebhook.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gstark1912/chatbotapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gstark1912/chatbotapi/issues"
+  },
+  "homepage": "https://github.com/gstark1912/chatbotapi#readme",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "dotenv": "^16.5.0"
+  }
+}
