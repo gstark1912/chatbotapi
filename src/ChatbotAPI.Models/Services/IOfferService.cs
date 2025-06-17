@@ -6,5 +6,6 @@ namespace ChatbotAPI.Services
     {
         Task<List<Offer>> GetAllOffersAsync();
         Task<List<Offer>> GetActiveAsync();
+        Task<Offer?> GetOfferByIdAsync(string offerId);
     }
 }

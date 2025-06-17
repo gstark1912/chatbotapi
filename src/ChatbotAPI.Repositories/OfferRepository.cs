@@ -29,5 +29,10 @@ namespace ChatbotAPI.Repositories
                 o.EndDate >= now
             ).ToListAsync();
         }
+
+        public async Task<Offer?> GetByIdAsync(string offerId)
+        {
+            return await _offers.Find(o => o.Id == offerId).FirstOrDefaultAsync();
+        }
     }
 }

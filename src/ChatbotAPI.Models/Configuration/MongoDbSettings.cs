@@ -6,5 +6,6 @@ namespace ChatbotAPI.Configuration
         public string DatabaseName { get; set; } = null!;
         public string ProductsCollectionName { get; set; } = null!;
         public string OffersCollectionName { get; set; } = null!;
+        public string CartsCollectionName { get; set; } = null!;
     }
 }

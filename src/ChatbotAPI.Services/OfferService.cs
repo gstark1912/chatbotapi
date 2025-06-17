@@ -21,5 +21,10 @@ namespace ChatbotAPI.Services
         {
             return await _offerRepository.GetActiveAsync();
         }
+
+        public Task<Offer?> GetOfferByIdAsync(string offerId)
+        {
+            return _offerRepository.GetByIdAsync(offerId);
+        }
     }
 }

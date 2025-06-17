@@ -11,9 +11,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
-    c.SwaggerDoc("v1", new OpenApiInfo 
-    { 
-        Title = "Chatbot API", 
+    c.SwaggerDoc("v1", new OpenApiInfo
+    {
+        Title = "Chatbot API",
         Version = "v1",
         Description = "API para gestión de productos y ofertas del chatbot"
     });
@@ -36,10 +36,10 @@ builder.Services.AddSingleton<IMongoClient>(serviceProvider =>
 // Register repositories
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IOfferRepository, OfferRepository>();
-
-// Register services
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IOfferService, OfferService>();
+builder.Services.AddScoped<ICartRepository, CartRepository>();
+builder.Services.AddScoped<ICartService, CartService>();
 
 var app = builder.Build();
 
