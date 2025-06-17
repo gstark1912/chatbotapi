@@ -11,8 +11,8 @@ services:
     restart: unless-stopped
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
-      - Mongo__ConnectionString=mongodb://mongo:27017
-      - Mongo__DatabaseName=chatbotdb
+      - MongoDbSettings__ConnectionString=mongodb://mongo:27017
+      - MongoDbSettings__DatabaseName=chatbotDB
 
   mongo:
     image: mongo
