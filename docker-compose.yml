@@ -48,8 +48,18 @@ services:
       - n8n_data:/home/node/.n8n
     depends_on:
       - ollama  
-  
+      
+  waha:
+    image: devlikeapro/waha
+    container_name: waha
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+    volumes:
+      - waha_data:/.waha
+
 volumes:
   mongo_data:
+  waha_data:
   ollama_data:
   n8n_data:
