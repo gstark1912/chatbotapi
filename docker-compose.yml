@@ -20,7 +20,17 @@ services:
     ports:
       - "27017:27017"
     restart: unless-stopped
-  
+    
+  waha:
+    image: devlikeapro/waha
+    container_name: waha
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+    volumes:
+      - waha_data:/.waha
+
 volumes:
   mongo_data:
+  waha_data:
 
